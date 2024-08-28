@@ -24,7 +24,7 @@ Installation:
     Clone the repository:
 
     bash
-    git clone https://github.com/Ritikkoshta02/Automated-Entry-Exit-System-using-Image-Processing.git
+    git clone https://github.com/akshz-b/Automated-Entry-Exit-System-using-Image-Processing.git
 
 Install dependencies:
 
